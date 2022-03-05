@@ -52,7 +52,7 @@ To my Instructors🚀🙏!!!
 
 ## Links:
 
-- Deployed app on GitHub pages
+[Deployed app on GitHub pages](https://scorpion77777.github.io/weather_app)
 
 ## Author:
 
