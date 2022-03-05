@@ -74,7 +74,7 @@ $(document).ready(function () {
       history.push(search);
       localStorage.setItem("searchHistory", JSON.stringify(history));
       $("#history-list").append(
-        `<li><button class="btn btn-block btn-outline-dark" id=${search} onClick="reply_click(this.id)">${search}</button></li>`
+        `<li><button class="btn btn-block " style="color:white;" id=${search} onClick="reply_click(this.id)">${search}</button></li>`
       );
     }
   });

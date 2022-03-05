@@ -31,7 +31,7 @@
 ## Usage:
 
 1. First when user entering the app 
-2. View sameday forcast
+2. View same day forecast
 3. View forecast for five days
 4. You can also view your search history
 
