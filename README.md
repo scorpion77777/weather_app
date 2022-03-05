@@ -5,7 +5,7 @@
 
 ## Scrrenshot:
 
-<img src="https://github.com/scorpion77777/weather_app/assets/screen.png" alt="Weather screenshot"></src>
+<img src="https://github.com/scorpion77777/weather_app/blob/main/assets/screen.png" alt="Blog screenshot"></src>
 
 ## Summary:
 
