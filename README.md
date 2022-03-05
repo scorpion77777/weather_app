@@ -9,7 +9,7 @@
 
 ## Summary:
 
-- Weather is a app for creating blogs.
+- Weather APP is app for viewing daily forecast and also 5 days ahead forecast.
 
 
 ## Table of Contents:
