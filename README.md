@@ -26,7 +26,7 @@
 ## Installation:
 
 
-1. Clone the repo from https://github.com/scorpion77777/Blog
+1. Clone the repo from https://github.com/scorpion77777/weather_app
 
 ## Usage:
 
@@ -52,7 +52,7 @@ To my Instructors🚀🙏!!!
 
 ## Links:
 
-- Deployed app on Heroku https://itech-blog.herokuapp.com/
+- Deployed app on GitHub pages
 
 ## Author:
 
